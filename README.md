@@ -1,5 +1,5 @@
 # NLTK_Spam
-Spam words analytics based on Email plot via wordCloud. 
+Spam words analytics based on Email and generated using wordCloud. 
 
 I recently got spam/junk emails in my Gmail and motivated me to look at what the 'spam' words after analyzed all emails fetched from gmail server, and for user-friendly interface visualize these spam/junk words using word cloud.
 
